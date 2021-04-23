@@ -19,11 +19,17 @@
 试想一下，4 年后的今天，当你站在 C 位和身边的人分享你的经历时：
 
 > 各位知道我今天
+> 
 > 为什么这么成功吗？
+> 
 > 天资聪颖？？
+> 
 > 努力勤奋？？？
+> 
 > NO！不是！！都不是！！！
+> 
 > 我就是拥有 TMD 比别人更多的好运气！！！
+> 
 > 来，给大家看看我的钱包
 >
 > ////// 一大串 0 的、很多坨狗屎币，正在等着被拍照留念……
@@ -48,6 +54,29 @@ https://github.com/dogeshit
 
 松散自治，没有工资，就是大家一起玩儿，搞事情，热热闹闹耍起来，娱乐全世界，狗屎到底会多少钱，谁知道呢…
 
+
+---------
+
+
+## 以太坊合约
+
+`0x6Ed225EFbD0A387fFC7d31F9577c5c8b8B74C981`
+
+已开源验证
+
+
+### DogeShit.sol:
+
+`dweb:/ipfs/QmZFXcp6jp6qZeF6fwRdxwSaWVnWuuW3SxMY8d2u5SCFLf`
+
+### metadata.json:
+
+`dweb:/ipfs/QmT7EznkoSAnxrXpDXcnPKcZShGdZeVzrTSHBfCJHQovcP`
+
+
+## UniSwap 的 LP 已 100% 销毁
+
+[https://etherscan.io/tx/0xfada9cfe8b193f8f892be92f8d23cde27908d0058b52b37164dfa496014163d0](https://etherscan.io/tx/0xfada9cfe8b193f8f892be92f8d23cde27908d0058b52b37164dfa496014163d0)
 
 ---------
 
