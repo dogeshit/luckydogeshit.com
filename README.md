@@ -1,6 +1,7 @@
 # 狗屎币 DogeShit
 
-以太坊 ERC20 合约地址 `0x6Ed225EFbD0A387fFC7d31F9577c5c8b8B74C981`
+- 币安链 BRC20 合约地址 `0x55e1fAE89d860a0723062f43a14E5b3C9432f053`
+- 以太坊 ERC20 合约地址 `0x6Ed225EFbD0A387fFC7d31F9577c5c8b8B74C981`
 
 **狗屎币源于一个突发奇想，娱乐作品，非盈利，社区驱动，甚至没有明确的定义。起源于一个听起来很奇怪但很常见的词叫“狗屎运”。在中国，“狗屎运”是指“突如其来的，莫名其妙的，不期而遇的，甚至是荒诞离奇的 —— 好·运·气”，“走狗屎运”也被用来形容一个人好运当头、被幸运之神眷顾。使用微信内置的翻译功能，翻译 LuckyDogeShit 得到的结果是 —— 幸运之神。**
 
@@ -64,6 +65,16 @@
 ---------
 
 
+## 币安链合约
+
+`0x55e1fAE89d860a0723062f43a14E5b3C9432f053`
+
+已在 etherscan.io 开源验证
+
+对应的部署 tx hash 是
+[0x9b72ad4e911bce829aa11bf88cdab057ae5b6e499f2ef6ad38175f0d6fc5ac4b](https://bscscan.com/tx/0x9b72ad4e911bce829aa11bf88cdab057ae5b6e499f2ef6ad38175f0d6fc5ac4b)
+
+
 ## 以太坊合约
 
 `0x6Ed225EFbD0A387fFC7d31F9577c5c8b8B74C981`
@@ -74,13 +85,20 @@
 [0xa615de55c899c817f57d99e9765fa3b8f51e96f77a011861e74b33819dfac389](https://etherscan.io/tx/0xa615de55c899c817f57d99e9765fa3b8f51e96f77a011861e74b33819dfac389)
 
 
-### DogeShit.sol
+## PancakeSwap
 
-`dweb:/ipfs/QmZFXcp6jp6qZeF6fwRdxwSaWVnWuuW3SxMY8d2u5SCFLf`
+### 总量 100% 一次性打入 PancakeSwap 交易池
 
-### metadata.json
+建池 tx hash 是
+[0x270f95ffe7bd6cfe9e8d5f293b3552293cda1ef8a7fc5d8869a299cba41d8397](https://bscscan.com/tx/0x270f95ffe7bd6cfe9e8d5f293b3552293cda1ef8a7fc5d8869a299cba41d8397)
 
-`dweb:/ipfs/QmT7EznkoSAnxrXpDXcnPKcZShGdZeVzrTSHBfCJHQovcP`
+### PancakeSwap 的 LP 已 100% 销毁
+
+从这里可以看到 PancakeSwap 的 LP 持仓已完全属于 0x0000000000000000000000000000000000000000 黑洞地址
+[https://bscscan.com/token/0xf403c769907ad3a133928342073ea75763537301#balances](https://bscscan.com/token/0xf403c769907ad3a133928342073ea75763537301#balances)
+
+对应的销毁转账的 tx hash 是
+[0x02454161bac026932f8ae23e3c839273a0878ab7e6efb14243e4ad501623cb8e](https://bscscan.com/tx/0x02454161bac026932f8ae23e3c839273a0878ab7e6efb14243e4ad501623cb8e)
 
 
 ## UniSwap
